@@ -7,7 +7,7 @@ DeepSecure-AI is a powerful open-source tool designed to detect fake images, vid
 ## Features
 
 - Multimedia Detection: Detect deepfakes in images, videos, and audio files using a unified platform.
-- High Accuracy: Leverages EfficientNetV2 for enhanced prediction performance and accurate results.
+- High Accuracy: Leverages EfficientNetV2 for enhanced prediction performance and accurate results. 
 - Real-Time Video Analysis: Frame-by-frame analysis of videos with automatic face detection.
 - User-Friendly Interface: Easy-to-use interface built with Gradio for uploading and processing media files.
 - Open Source: Completely open source under the MIT license, making it available for developers to extend and improve.
